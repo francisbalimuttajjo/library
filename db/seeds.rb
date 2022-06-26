@@ -3,5 +3,5 @@
 #
 # Examples:
 #
-  books = Book.create([{ title: "Star Wars",author:"bafra" }, { title: "Lord of the Rings",author:"mayanja" }])
+#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)

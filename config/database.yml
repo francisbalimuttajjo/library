@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: library_database
+  database: test_database_ruby
   pool: 5
   host: localhost
   username: postgres
@@ -10,7 +10,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: library_database
+  database: test_database_ruby
   pool: 5
   username: postgres
   password: franckie@1A
